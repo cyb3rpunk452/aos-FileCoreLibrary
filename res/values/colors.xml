@@ -21,6 +21,7 @@
     <color name="transparent">#00000000</color>
     <color name="dim_foreground_dark">#bebebe</color>
     <color name="my_holo_blue_very_dark">#ff0070a0</color>
+    <color name="my_holo_orange">#FF8A06</color>
     <color name="my_holo_blue_very_dark_dimmed">#200070a0</color>
     <color name="default_icon_background">#cc003040</color>
     <color name="default_icons_color_filter">#ff508090</color>
